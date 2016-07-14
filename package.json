@@ -1,6 +1,6 @@
 {
   "name": "marty",
-  "version": "0.11.0",
+  "version": "0.11.1",
   "description": "A Javascript library for state management in React applications",
   "main": "marty.js",
   "directories": {
@@ -34,8 +34,8 @@
     "uglify-js": "^2.4.23"
   },
   "peerDependencies": {
-    "react": "0.14.x",
-    "react-dom": "0.14.x"
+    "react": "0.14.x || ^15.0.0-0",
+    "react-dom": "0.14.x || ^15.0.0-0"
   },
   "author": "James Hollingworth",
   "license": "MIT",
